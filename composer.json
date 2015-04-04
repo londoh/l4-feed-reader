@@ -1,5 +1,5 @@
 {
-    "name": "awjudd/feed-reader",
+    "name": "londoh/feed-reader",
     "description": "A simple RSS feed reader for Laravel 5",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5",
-        "simplepie/simplepie": "dev-master"
+        "simplepie/simplepie": "master"
     },
     "autoload": {
         "psr-0": {
